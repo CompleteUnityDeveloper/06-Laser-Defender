@@ -123,8 +123,8 @@ MonoBehaviour:
   projectileSpeed: 3
   health: 3000
   shotCounter: 0
-  minTimeBetweenShots: 0.5
-  maxTimeBetweenShots: 1
+  minTimeBetweenShots: 0.8
+  maxTimeBetweenShots: 1.2
   scoreValue: 850
   fireSound: {fileID: 8300000, guid: ab7321eb71b484243a1dfefd853cff00, type: 3}
   deathSound: {fileID: 8300000, guid: 718aa9f612d6e47ceab7f5df686e30f8, type: 3}
@@ -140,12 +140,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 489727b20accec848a36ee1cb9852587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints:
-  - {fileID: 4006101321472042, guid: 5e71149e03c92a849bc610cdb0cd2340, type: 2}
-  - {fileID: 4333977400775994, guid: 5e71149e03c92a849bc610cdb0cd2340, type: 2}
-  - {fileID: 4262577944332740, guid: 5e71149e03c92a849bc610cdb0cd2340, type: 2}
-  - {fileID: 4620875303839358, guid: 5e71149e03c92a849bc610cdb0cd2340, type: 2}
-  moveSpeed: 2
 --- !u!212 &212286318687829818
 SpriteRenderer:
   m_ObjectHideFlags: 1
