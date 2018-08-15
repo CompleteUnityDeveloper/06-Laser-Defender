@@ -36,3 +36,15 @@ Ready and raring to start this section.
 
 **After watching (learning outcomes)…**
 You'll know exactly what we're making and you'll need to do to get started.
+
+
+### 3 Set Up Project ###
+
+**In this video (objectives)…**
+
+1. Create new Unity project.
+2. Download art assets and import them.
+3. Set up background, player, enemy, camera and aspect ratio to find something we are happy with.
+
+**After watching (learning outcomes)…**
+Create our project and be happy with the aspect ratio, sizes and proportions.
