@@ -15,10 +15,24 @@ In this section we create a dynamic top-down shooter using everything Unity has 
 ## Lecture List
 Here are the lectures of the course for this section.
 
+
 ### 1 Welcome To Laser Defender ###
+
 **In this video (objectives)…**
+
 1. Overview of this section.
 2. Focus on making a fun top-down shooter.
 3. Lots of creative opportunity to make your flavour of top-down shooter.
- **After watching (learning outcomes)…**
+
+**After watching (learning outcomes)…**
 Ready and raring to start this section.
+
+
+### 2 Laser Defender Game Design ###
+
+**In this video (objectives)…**
+
+1. Discuss the features, player experience and core loop in our game.
+
+**After watching (learning outcomes)…**
+You'll know exactly what we're making and you'll need to do to get started.
