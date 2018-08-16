@@ -21,6 +21,9 @@ public class Player : MonoBehaviour
     // private instance variables for state
 	float xmax = -5;
 	float xmin = 5;
+    float ymax = -5;
+    float ymin = 5;
+
     Coroutine firingHandle;
 	
     // messages, then public methods, then private methods...
@@ -48,13 +51,20 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-        Camera mainCamera = Camera.main;
-        float distance = transform.position.z - mainCamera.transform.position.z;
-        xmin = mainCamera.ViewportToWorldPoint(new Vector3(0, 0, distance)).x + padding;
-        xmax = mainCamera.ViewportToWorldPoint(new Vector3(1, 1, distance)).x - padding;
+        SetUpPlaySpace();
     }
 
-	void Update ()
+    private void SetUpPlaySpace()
+    {
+        Camera mainCamera = Camera.main;
+        //float distance = transform.position.z - mainCamera.transform.position.z;
+        xmin = mainCamera.ViewportToWorldPoint(new Vector3(0, 0, 1)).x + padding;
+        xmax = mainCamera.ViewportToWorldPoint(new Vector3(1, 1, 1)).x - padding;
+        ymin = mainCamera.ViewportToWorldPoint(new Vector3(1, 0, 1)).y + padding;
+        ymax = mainCamera.ViewportToWorldPoint(new Vector3(0, 1, 1)).y - padding;
+    }
+
+    void Update ()
     {
         Fire();
         Move();
@@ -63,12 +73,11 @@ public class Player : MonoBehaviour
     private void Move()
     {
         var deltaX = Input.GetAxis("Horizontal") * speed * Time.deltaTime;
-        var proposedXpos = transform.position.x + deltaX;
-        transform.position = new Vector3(
-            Mathf.Clamp(proposedXpos, xmin, xmax),
-            transform.position.y,
-            transform.position.z
-        );
+        var deltaY = Input.GetAxis("Vertical") * speed * Time.deltaTime;
+
+        var newXPos = Mathf.Clamp(transform.position.x + deltaX, xmin, xmax);
+        var newYPos = Mathf.Clamp(transform.position.y + deltaY, ymin, ymax);
+        transform.position = new Vector2(newXPos, newYPos);
     }
 
     private void Fire()
