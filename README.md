@@ -48,3 +48,15 @@ You'll know exactly what we're making and you'll need to do to get started.
 
 **After watching (learning outcomes)…**
 Create our project and be happy with the aspect ratio, sizes and proportions.
+
+
+### 4 Movement & Time.deltaTime ###
+
+**In this video (objectives)…**
+
+1. Move the player on horizontal axis using Input.GetAxis().
+2. Use Time.deltaTime to make our game framerate independent.
+3. Also add vertical movement for the player.
+
+**After watching (learning outcomes)…**
+Move your player ship in a way which is frame rate independent.
