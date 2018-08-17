@@ -60,3 +60,15 @@ Create our project and be happy with the aspect ratio, sizes and proportions.
 
 **After watching (learning outcomes)…**
 Move your player ship in a way which is frame rate independent.
+
+
+### 5 ViewPortToWorldPoint() ###
+
+**In this video (objectives)…**
+
+1. Construct our gameplay boundaries using the method ViewPortToWorldPoint().
+2. Clamp our horizontal and vertical movement based upon our boundaries.
+3. Add padding so that the player does not go off screen.
+
+**After watching (learning outcomes)…**
+Limit your player's ship movement based upon relative camera space.
