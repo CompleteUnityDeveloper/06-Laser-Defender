@@ -72,3 +72,14 @@ Move your player ship in a way which is frame rate independent.
 
 **After watching (learning outcomes)…**
 Limit your player's ship movement based upon relative camera space.
+
+
+### 6 What Feature Next ###
+
+**In this video (objectives)…**
+
+1. Map out all the core and secondary features in our game and the main polish areas.
+2. Identify our options for priorities and select our next feature to work on.
+
+**After watching (learning outcomes)…**
+Understand the thought process for identifying your priorities for development.
