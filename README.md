@@ -83,3 +83,15 @@ Limit your player's ship movement based upon relative camera space.
 
 **After watching (learning outcomes)…**
 Understand the thought process for identifying your priorities for development.
+
+
+### 7 Make Player Shoot ###
+
+**In this video (objectives)…**
+
+1. Create a projectile and connect it to the player.
+2. Instantiate a the projectile using GetButtonDown().
+3. Give the projectile some velocity so that it shoots upwards.
+
+**After watching (learning outcomes)…**
+Instantiate a project and shoot it upwards.
