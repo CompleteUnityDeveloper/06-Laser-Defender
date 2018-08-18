@@ -95,3 +95,14 @@ Understand the thought process for identifying your priorities for development.
 
 **After watching (learning outcomes)…**
 Instantiate a project and shoot it upwards.
+
+
+### 8 Using Coroutines ###
+
+**In this video (objectives)…**
+
+1. Understand the core concept of how a coroutine works.
+2. Create a simple coroutine that prints to the console, yields for 3 seconds, then prints to the console again.
+
+**After watching (learning outcomes)…**
+Understand the basics of how coroutines work.

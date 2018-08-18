@@ -19,6 +19,7 @@ public class Player : MonoBehaviour {
     // Use this for initialization
     void Start () {
         SetUpMoveBoundaries();
+        StartCoroutine(PrintAndWait());
 	}
  
     // Update is called once per frame
@@ -26,6 +27,13 @@ public class Player : MonoBehaviour {
         Move();
         Fire();
 	}
+
+    IEnumerator PrintAndWait()
+    {
+        Debug.Log("First message sent, boss");
+        yield return new WaitForSeconds(3);
+        Debug.Log("The second message, yo!");
+    }
 
     private void Fire()
     {
