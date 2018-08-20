@@ -118,3 +118,14 @@ Understand the basics of how coroutines work.
 
 **After watching (learning outcomes)…**
 Use coroutine to create repeating fire when the player is holding down the shoot button.
+
+
+### 10 GameObject Shredder ###
+
+**In this video (objectives)…**
+
+1. Create Shredder object and script.
+2. Test for trigger and then destroy object which collided.
+
+**After watching (learning outcomes)…**
+Able to destroy GameObjects which collide with our trigger volume.
