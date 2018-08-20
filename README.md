@@ -106,3 +106,15 @@ Instantiate a project and shoot it upwards.
 
 **After watching (learning outcomes)…**
 Understand the basics of how coroutines work.
+
+
+### 9 Repeat Fire Coroutine ###
+
+**In this video (objectives)…**
+
+1. Create a coroutine to call when firing.
+2. Loop the coroutine using a while (true) loop.
+3. Create a means in which to stop the coroutine.
+
+**After watching (learning outcomes)…**
+Use coroutine to create repeating fire when the player is holding down the shoot button.
