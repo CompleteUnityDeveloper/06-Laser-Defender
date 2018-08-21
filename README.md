@@ -129,3 +129,15 @@ Use coroutine to create repeating fire when the player is holding down the shoot
 
 **After watching (learning outcomes)…**
 Able to destroy GameObjects which collide with our trigger volume.
+
+
+### 11 Create List Of Waypoints ###
+
+**In this video (objectives)…**
+
+1. Create empty game objects to use as waypoints.
+2. Introduce lists and how they are different to arrays.
+3. Store our path waypoints in our list.
+
+**After watching (learning outcomes)…**
+Create a list to store enemy path waypoints.
