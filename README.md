@@ -141,3 +141,14 @@ Able to destroy GameObjects which collide with our trigger volume.
 
 **After watching (learning outcomes)…**
 Create a list to store enemy path waypoints.
+
+
+### 12 Move Enemy On Path ###
+
+**In this video (objectives)…**
+
+1. Write pseudocode for our enemy movement.
+2. Use the MoveTowards() method to move the enemy.
+
+**After watching (learning outcomes)…**
+Move an enemy GameObject along a path using waypoints.
