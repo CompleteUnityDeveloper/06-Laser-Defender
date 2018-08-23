@@ -164,3 +164,14 @@ Move an enemy GameObject along a path using waypoints.
 
 **After watching (learning outcomes)…**
 Create a scriptable object for wave data with public methods that return the data values.
+
+
+### 14 Using A Foreach Loop ###
+
+**In this video (objectives)…**
+
+1. Create a better way to return the path waypoints from our wave config using a list rather than returning the game object.
+2. Add a new path and test.
+
+**After watching (learning outcomes)…**
+Use A Foreach loop to return a list of waypoint transforms.
