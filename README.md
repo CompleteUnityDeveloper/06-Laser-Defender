@@ -152,3 +152,15 @@ Create a list to store enemy path waypoints.
 
 **After watching (learning outcomes)…**
 Move an enemy GameObject along a path using waypoints.
+
+
+### 13 WaveConfig Scriptable Object ###
+
+**In this video (objectives)…**
+
+1. Map out what data will need to be in which of our scripts.
+2. Create our WaveConfig script and populate it with our data variables.
+3. Write public get methods to allow other classes to access our data.
+
+**After watching (learning outcomes)…**
+Create a scriptable object for wave data with public methods that return the data values.
