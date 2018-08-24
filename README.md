@@ -209,3 +209,15 @@ Able to feed the wave config information to the enemy path.
 
 **After watching (learning outcomes)…**
 Be able to spawn multiple waves one after another.
+
+
+### 18 Loop All Enemy Waves ###
+
+**In this video (objectives)…**
+
+1. Turn our Start method into a coroutine.
+2. Create a looping bool.
+3. Create a do while loop that allows us to loop all waves over and over.
+
+**After watching (learning outcomes)…**
+Loop all of our enemy waves using a do while loop.
