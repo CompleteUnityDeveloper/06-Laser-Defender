@@ -198,3 +198,14 @@ Use a coroutine and for loop to spawn a wave of enemies.
 
 **After watching (learning outcomes)…**
 Able to feed the wave config information to the enemy path.
+
+
+### 17 Spawn Multiple Enemy Waves ###
+
+**In this video (objectives)…**
+
+1. Coroutine inception! We place a coroutine within a coroutine.
+2. Set up multiple different enemies and multiple different waves, spawning one after another.
+
+**After watching (learning outcomes)…**
+Be able to spawn multiple waves one after another.

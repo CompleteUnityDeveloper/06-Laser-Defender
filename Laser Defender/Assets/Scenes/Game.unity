@@ -152,18 +152,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 1818158268515574, guid: 513e949a475d76149ac4cb3540576af0, type: 2}
-      propertyPath: m_Icon
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1716279003543564, guid: 513e949a475d76149ac4cb3540576af0, type: 2}
-      propertyPath: m_Icon
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1220463475794502, guid: 513e949a475d76149ac4cb3540576af0, type: 2}
-      propertyPath: m_Icon
-      value: 
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 513e949a475d76149ac4cb3540576af0, type: 2}
   m_IsPrefabAsset: 0
@@ -551,6 +539,9 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: ce338c26636ba414092c6916ac512c76, type: 2}
   - {fileID: 11400000, guid: 989b6187597dbb143b4170222fb409b5, type: 2}
+  - {fileID: 11400000, guid: 229b205c480a5f84e9e264866e02fbed, type: 2}
+  - {fileID: 11400000, guid: 0edc5a5a7e975b8419718b37309a9077, type: 2}
+  startingWave: 0
 --- !u!4 &1540601414
 Transform:
   m_ObjectHideFlags: 0
