@@ -187,3 +187,14 @@ Use A Foreach loop to return a list of waypoint transforms.
 
 **After watching (learning outcomes)…**
 Use a coroutine and for loop to spawn a wave of enemies.
+
+
+### 16 WaveConfig For Path & Speed ###
+
+**In this video (objectives)…**
+
+1. Separate the movement speed and path away from the enemy prefab.
+2. Dig deeper into using paramaters on a public method to set our wave config.
+
+**After watching (learning outcomes)…**
+Able to feed the wave config information to the enemy path.
