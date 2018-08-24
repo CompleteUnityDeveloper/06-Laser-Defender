@@ -175,3 +175,15 @@ Create a scriptable object for wave data with public methods that return the dat
 
 **After watching (learning outcomes)…**
 Use A Foreach loop to return a list of waypoint transforms.
+
+
+### 15 Spawn Multiple Enemies ###
+
+**In this video (objectives)…**
+
+1. Create EnemySpawner.cs to instantiate enemies into our scene.
+2. Craft a coroutine that spawns an enemy then waits for time.
+3. Use a for loop to continue instantiating enemies until the wave is complete.
+
+**After watching (learning outcomes)…**
+Use a coroutine and for loop to spawn a wave of enemies.
