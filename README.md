@@ -221,3 +221,24 @@ Be able to spawn multiple waves one after another.
 
 **After watching (learning outcomes)…**
 Loop all of our enemy waves using a do while loop.
+
+
+### 19 Create Damage Dealer Class ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Create a class called Damage Dealer that can be placed on whatever game objects we want to use to inflict damage.
+
+2. Create an enemy class that can handle enemy's health.
+
+3. Shoot a laser that harms enemy.
+
+
+
+**After watching (learning outcomes)…**
+
+Create a class responsible for dealing damage to objects which have health.
