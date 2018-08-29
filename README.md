@@ -260,3 +260,21 @@ Create a class responsible for dealing damage to objects which have health.
 **After watching (learning outcomes)…**
 
 Destroy our enemies when they reach zero health.
+
+
+### 21 Make Enemy Shoot ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Instantiate laser and provide it velocity in negative y direction.
+2. Create new laser prefab for the enemy to shoot.
+
+
+
+**After watching (learning outcomes)…**
+
+Make the enemy shoot projectiles at random time intervals.
