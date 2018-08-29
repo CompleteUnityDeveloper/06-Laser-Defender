@@ -278,3 +278,22 @@ Destroy our enemies when they reach zero health.
 **After watching (learning outcomes)…**
 
 Make the enemy shoot projectiles at random time intervals.
+
+
+### 22 Player Life And Death ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Use [Header] attribute to tidy up our variables in the inspector.
+
+2. Make our enemy laser more visible.
+3. Add collision, health and death for the player.
+
+
+**After watching (learning outcomes)…**
+
+Able to destroy the player when its health reaches zero.
