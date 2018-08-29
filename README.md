@@ -297,3 +297,21 @@ Make the enemy shoot projectiles at random time intervals.
 **After watching (learning outcomes)…**
 
 Able to destroy the player when its health reaches zero.
+
+
+### 23 Layer Collision Matrix ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Create layers and apply the correct rules to the layer collision matrix.
+2. Destroy objects which are inflicting damage.
+3. Protect against null within our damage collision event.
+
+
+**After watching (learning outcomes)…**
+
+Apply layers and use the collision matrix to ensure only valid objects can influence each other.
