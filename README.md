@@ -242,3 +242,21 @@ Loop all of our enemy waves using a do while loop.
 **After watching (learning outcomes)…**
 
 Create a class responsible for dealing damage to objects which have health.
+
+
+### 20 Destroy Enemy ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Create an if statement to destroy enemy if its health goes below zero.
+2. Discuss in more detail the mechanism of creating a method which requires a parameter to be passed into it.
+
+
+
+**After watching (learning outcomes)…**
+
+Destroy our enemies when they reach zero health.
