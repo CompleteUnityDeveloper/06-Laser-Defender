@@ -329,7 +329,23 @@ Apply layers and use the collision matrix to ensure only valid objects can influ
 2. Create an apply a script which moves the texture offset each frame.
 
 
-
 **After watching (learning outcomes)…**
 
 Create a scrolling background by incrementing texture offset each frame.
+
+
+### 25 Introducing Particle Effects ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Create our first particle system and tune it to look like a starfield.
+2. Create a second starfield to show some parallax and different effect.
+
+
+**After watching (learning outcomes)…**
+
+Use particle systems to create a starfield.
