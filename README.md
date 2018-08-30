@@ -315,3 +315,21 @@ Able to destroy the player when its health reaches zero.
 **After watching (learning outcomes)…**
 
 Apply layers and use the collision matrix to ensure only valid objects can influence each other.
+
+
+### 24 Scrolling Background ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Add a quad and change our background image to default texture type.
+2. Create an apply a script which moves the texture offset each frame.
+
+
+
+**After watching (learning outcomes)…**
+
+Create a scrolling background by incrementing texture offset each frame.
