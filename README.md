@@ -349,3 +349,21 @@ Create a scrolling background by incrementing texture offset each frame.
 **After watching (learning outcomes)…**
 
 Use particle systems to create a starfield.
+
+
+### 26 Explosion Particle Effect ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Use texture sheet animation to create some variation in our particles.
+2. Create a cool explosion effect.
+3. Trigger our particle effect from code when the enemy dies.
+
+
+**After watching (learning outcomes)…**
+
+Create an explosion effect which we trigger when enemies are killed.
