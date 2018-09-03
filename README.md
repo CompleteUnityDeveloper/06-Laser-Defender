@@ -367,3 +367,20 @@ Use particle systems to create a starfield.
 **After watching (learning outcomes)…**
 
 Create an explosion effect which we trigger when enemies are killed.
+
+
+### 27 Trigger Sound Effects ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Audit our game to see where we need sound effects.
+2. Use PlayClipAtPoint() to trigger sound effects.
+
+
+**After watching (learning outcomes)…**
+
+Trigger sound effects for the key moments in our game.
