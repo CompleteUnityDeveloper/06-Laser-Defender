@@ -384,3 +384,20 @@ Create an explosion effect which we trigger when enemies are killed.
 **After watching (learning outcomes)…**
 
 Trigger sound effects for the key moments in our game.
+
+
+### 28 Load All Scenes ###
+
+
+
+**In this video (objectives)…**
+
+
+
+1. Create all the scenes for our game including their UI and buttons.
+2. Create the public methods required to load our various scenes.
+
+
+**After watching (learning outcomes)…**
+
+Create all our scenes, buttons and loading methods.

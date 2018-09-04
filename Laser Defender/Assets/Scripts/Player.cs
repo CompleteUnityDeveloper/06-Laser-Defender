@@ -58,7 +58,7 @@ public class Player : MonoBehaviour {
     private void Die()
     {
         Destroy(gameObject);
-        AudioSource.PlayClipAtPoint(deathSound, Camera.main.transform.position, deathSoundVolume);
+        AudioSource.PlayClipAtPoint(deathSound, Camera.main.transform.position, deathSoundVolume);   
     }
 
     private void Fire()
