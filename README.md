@@ -225,179 +225,119 @@ Loop all of our enemy waves using a do while loop.
 
 ### 19 Create Damage Dealer Class ###
 
-
-
 **In this video (objectives)…**
 
-
-
 1. Create a class called Damage Dealer that can be placed on whatever game objects we want to use to inflict damage.
-
 2. Create an enemy class that can handle enemy's health.
-
 3. Shoot a laser that harms enemy.
 
-
-
 **After watching (learning outcomes)…**
-
 Create a class responsible for dealing damage to objects which have health.
 
 
 ### 20 Destroy Enemy ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Create an if statement to destroy enemy if its health goes below zero.
 2. Discuss in more detail the mechanism of creating a method which requires a parameter to be passed into it.
 
-
-
 **After watching (learning outcomes)…**
-
 Destroy our enemies when they reach zero health.
 
 
 ### 21 Make Enemy Shoot ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Instantiate laser and provide it velocity in negative y direction.
 2. Create new laser prefab for the enemy to shoot.
 
-
-
 **After watching (learning outcomes)…**
-
 Make the enemy shoot projectiles at random time intervals.
 
 
 ### 22 Player Life And Death ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Use [Header] attribute to tidy up our variables in the inspector.
-
 2. Make our enemy laser more visible.
 3. Add collision, health and death for the player.
 
-
 **After watching (learning outcomes)…**
-
 Able to destroy the player when its health reaches zero.
 
 
 ### 23 Layer Collision Matrix ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Create layers and apply the correct rules to the layer collision matrix.
 2. Destroy objects which are inflicting damage.
 3. Protect against null within our damage collision event.
 
-
 **After watching (learning outcomes)…**
-
 Apply layers and use the collision matrix to ensure only valid objects can influence each other.
 
 
 ### 24 Scrolling Background ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Add a quad and change our background image to default texture type.
 2. Create an apply a script which moves the texture offset each frame.
 
-
 **After watching (learning outcomes)…**
-
 Create a scrolling background by incrementing texture offset each frame.
 
 
 ### 25 Introducing Particle Effects ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Create our first particle system and tune it to look like a starfield.
 2. Create a second starfield to show some parallax and different effect.
 
-
 **After watching (learning outcomes)…**
-
 Use particle systems to create a starfield.
 
 
 ### 26 Explosion Particle Effect ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Use texture sheet animation to create some variation in our particles.
 2. Create a cool explosion effect.
 3. Trigger our particle effect from code when the enemy dies.
 
-
 **After watching (learning outcomes)…**
-
 Create an explosion effect which we trigger when enemies are killed.
 
 
 ### 27 Trigger Sound Effects ###
 
-
-
 **In this video (objectives)…**
-
-
-
 1. Audit our game to see where we need sound effects.
 2. Use PlayClipAtPoint() to trigger sound effects.
 
-
 **After watching (learning outcomes)…**
-
 Trigger sound effects for the key moments in our game.
 
 
 ### 28 Load All Scenes ###
 
+**In this video (objectives)…**
+1. Create all the scenes for our game including their UI and buttons.
+2. Create the public methods required to load our various scenes.
+
+**After watching (learning outcomes)…**
+Create all our scenes, buttons and loading methods.
+
+
+### 29 Delay For Loading Scene ###
+
 
 
 **In this video (objectives)…**
 
-
-
-1. Create all the scenes for our game including their UI and buttons.
-2. Create the public methods required to load our various scenes.
+1. Add enemy collision damage so we can bonk into enemies and inflict grievous harm on ourselves.
+2. Implement a coroutine as part of player death so that we can delay the loading of the game over scene.
 
 
 **After watching (learning outcomes)…**
 
-Create all our scenes, buttons and loading methods.
+Delay loading our game over scene by using a coroutine.
