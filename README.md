@@ -318,7 +318,7 @@ Create an explosion effect which we trigger when enemies are killed.
 Trigger sound effects for the key moments in our game.
 
 
-### 28 Load All Scenes ###
+### 28 Load All The Scenes ###
 
 **In this video (objectives)…**
 1. Create all the scenes for our game including their UI and buttons.
@@ -341,3 +341,19 @@ Create all our scenes, buttons and loading methods.
 **After watching (learning outcomes)…**
 
 Delay loading our game over scene by using a coroutine.
+
+
+### 30 Music Player With Singleton ###
+
+
+
+**In this video (objectives)…**
+
+1. Select some rad music for our game.
+2. Create a music player game object and script.
+3. Implement a singleton pattern so that we have just 1 music player.
+
+
+**After watching (learning outcomes)…**
+
+Add music to our game which behaves itself when loading new scenes.
