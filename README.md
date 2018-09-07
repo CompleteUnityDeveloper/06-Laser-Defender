@@ -416,3 +416,17 @@ Add a new enemy, projectile and path.
 **After watching (learning outcomes)…**
 
 Improve the visual look of our projectiles.
+
+
+### 35 Laser Defender Wrap-Up ###
+
+
+
+**In this video (objectives)…**
+
+1. We do some wrapping up so that the wrap up gets wrapped up.
+
+
+**After watching (learning outcomes)…**
+
+You'll be ready and raring for the next section of the course.
