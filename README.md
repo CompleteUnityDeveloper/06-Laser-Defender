@@ -401,3 +401,18 @@ Display the player's health on the screen and reset it after dying.
 **After watching (learning outcomes)…**
 
 Add a new enemy, projectile and path.
+
+
+### 34 Sorting Layer & Spinning Projectile ###
+
+
+
+**In this video (objectives)…**
+
+1. Using sorting layers to eliminate the problem where projectiles appear on top of the player and enemy.
+2. Create Spinner.cs to spin our enemy bombs as they zing through the air.
+
+
+**After watching (learning outcomes)…**
+
+Improve the visual look of our projectiles.
