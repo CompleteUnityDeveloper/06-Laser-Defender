@@ -373,3 +373,17 @@ Add music to our game which behaves itself when loading new scenes.
 **After watching (learning outcomes)…**
 
 Display the player's score on the game screen and game over screen.
+
+
+### 32 Display Player Health ###
+
+
+
+**In this video (objectives)…**
+
+1. Create DisplayHealth.cs and follow a similar path to displaying our score.
+
+
+**After watching (learning outcomes)…**
+
+Display the player's health on the screen and reset it after dying.
