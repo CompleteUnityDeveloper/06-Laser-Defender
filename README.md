@@ -357,3 +357,19 @@ Delay loading our game over scene by using a coroutine.
 **After watching (learning outcomes)…**
 
 Add music to our game which behaves itself when loading new scenes.
+
+
+### 31 Add & Display Score ###
+
+
+
+**In this video (objectives)…**
+
+1. Create GameSession.cs to handle our score value and updates.
+2. Create public methods for other scripts to call to influence score.
+3. Display score on Game screen and Game Over screen.
+
+
+**After watching (learning outcomes)…**
+
+Display the player's score on the game screen and game over screen.
