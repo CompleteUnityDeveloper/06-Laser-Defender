@@ -387,3 +387,17 @@ Display the player's score on the game screen and game over screen.
 **After watching (learning outcomes)…**
 
 Display the player's health on the screen and reset it after dying.
+
+
+### 33 New Enemy & Projectile ###
+
+
+
+**In this video (objectives)…**
+
+1. Go through the full process of adding a new enemy, projectile type and wave path, tuning and tweaking as we go.
+
+
+**After watching (learning outcomes)…**
+
+Add a new enemy, projectile and path.
