@@ -298,6 +298,16 @@ Apply layers and use the collision matrix to ensure only valid objects can influ
 Create a scrolling background by incrementing texture offset each frame.
 
 
+### 24B Laser Defender Instructor Hangout #2 ###
+
+**In this video (objectives)…**
+1. Discuss the general approach of how to get an app onto the app store.
+2. Talk about what we dont cover in this course regarding deployment.
+
+**After watching (learning outcomes)…**
+Understanding of what it takes to get an app onto the app stores.
+
+
 ### 25 Introducing Particle Effects ###
 
 **In this video (objectives)…**
