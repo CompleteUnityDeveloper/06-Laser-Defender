@@ -131,6 +131,17 @@ Use coroutine to create repeating fire when the player is holding down the shoot
 Able to destroy GameObjects which collide with our trigger volume.
 
 
+### 10B Laser Defender Instructor Hangout #1 ###
+
+**In this video (objectives)…**
+
+1. How to remember code.
+2. Gamasutra blog outlining 50 top tips for working in Unity.
+
+**After watching (learning outcomes)…**
+Some new knowledge about how to improve your programming skills.
+
+
 ### 11 Create List Of Waypoints ###
 
 **In this video (objectives)…**
